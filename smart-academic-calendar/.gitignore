@@ -1,0 +1,7 @@
+target/
+data/
+dist/
+config/app.properties
+*.db
+.idea/
+*.iml
